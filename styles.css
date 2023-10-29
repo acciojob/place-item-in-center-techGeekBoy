@@ -1,7 +1,7 @@
 
 /* Your CSS Code here. */
 .holder{
-	display:grid;
+	display:flex
 	width:100vw;
 	height:100vh;
 }
@@ -9,6 +9,7 @@
 	display:flex;
 	width:100px;
 	height:100px;
+	text-align:center;
 	justify-content:center;
 	align-items:center;
 	background-color:red;
